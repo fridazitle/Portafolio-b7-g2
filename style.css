@@ -1,0 +1,25 @@
+#presentacion {
+    height: 50vh;
+}
+
+.proyeto {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+
+#proyecto-1 {
+    background-image: url('Google.png');
+}
+
+#proyecto-2 {
+    background-image: url('');
+}
+
+#proyecto-3 {
+    background-image: url('');
+}
+
+.text-shadow-1 {
+    text-shadow: 4px 3px 12px rgb(44, 130, 74);
+}
