@@ -1,5 +1,13 @@
 #presentacion {
-    height: 50vh;
+    min-height: 70vh;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+
+    background-image: url('assets/fondo.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
 }
 
 .proyeto {
@@ -8,8 +16,8 @@
     background-size: contain;
 }
 
-#proyecto-1 {
-    background-image: url('Google.png');
+#proyecto-1 { 
+    background-image: url('assets/Google.png');
 }
 
 #proyecto-2 {
@@ -21,5 +29,9 @@
 }
 
 .text-shadow-1 {
-    text-shadow: 4px 3px 12px rgb(44, 130, 74);
+    text-shadow: 4px 3px 12px rgba(7, 7, 7, 0.916);
+}
+
+.imagen-redonda{
+    border-radius: 50%;
 }
