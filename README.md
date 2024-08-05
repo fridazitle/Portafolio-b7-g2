@@ -14,11 +14,10 @@ La página es responsiva (adaptable a diferentes tamaños de pantalla) e incluye
 
 ![Habilidades](assets/readme/2.png)
 
-![Proyectos]()
+![Proyectos](assets/readme/3.png)
 
 ![Testimonios](assets/readme/4.png)
 
-![]()
 ## Tecnologías
 
 * HTML
