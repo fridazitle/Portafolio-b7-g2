@@ -6,7 +6,7 @@ Fue desarrollado con HTML, CSS y JS con el uso de el framework de UI, Bootstrap 
 
 La página es responsiva (adaptable a diferentes tamaños de pantalla) e incluye la presentación de la autora del proyecto.
 
-[Proyecto Desplegado (referencia url en vercel)](url)
+[Proyecto Desplegado (referencia url en vercel)](https://portafolio-b7-g2-seven.vercel.app/)
 
 ## Secciones de mi sitio
 
@@ -26,4 +26,4 @@ La página es responsiva (adaptable a diferentes tamaños de pantalla) e incluye
 * Javascript
 ---
 
-Desarrollado con 💚 por [Malinali](https://malinali.dev/) en [TECHNOLOCHICAS PRO](https://tecnolochicas.mx/).
+Desarrollado con 💚 por [Frida Sofia](https://www.linkedin.com/in/frida-sofia-zitle/) en [TECHNOLOCHICAS PRO](https://tecnolochicas.mx/).
